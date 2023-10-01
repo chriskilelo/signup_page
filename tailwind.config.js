@@ -16,6 +16,9 @@ module.exports = {
         },
         'customtruegray': {
           400: '#949495'
+        },
+        'customrose': {
+          500: '#E65B76'
         }
       }
     },
