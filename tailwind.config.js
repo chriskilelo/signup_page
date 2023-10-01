@@ -8,10 +8,10 @@ module.exports = {
     extend: {
       fontFamily:{
         'roboto': ['Roboto', 'sans-serif' ],
+        'exo2': ['"Exo 2"', 'sans-serif' ],
       },
       colors: {}
     },
   },
   plugins: [],
 }
-
